@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:178:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:236:6:StartDefaultTask	16	static
+../Core/Src/freertos.c:254:6:traffic_light_FSM	24	static
+../Core/Src/freertos.c:471:6:pedestrian_light1	24	static
+../Core/Src/freertos.c:618:6:PL1_toggle	32	static
+../Core/Src/freertos.c:702:6:PL2_toggle	32	static

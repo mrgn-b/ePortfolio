@@ -1,0 +1,5 @@
+../Core/Src/test.c:26:6:Test_program	4	static
+../Core/Src/test.c:38:6:test_sending_SPI_data	8	static
+../Core/Src/test.c:49:6:test_LEDs	16	static
+../Core/Src/test.c:79:6:test_switches	16	static
+../Core/Src/test.c:113:6:test_toggle	8	static

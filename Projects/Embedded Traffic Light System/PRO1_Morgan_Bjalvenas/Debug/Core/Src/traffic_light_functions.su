@@ -1,0 +1,16 @@
+../Core/Src/traffic_light_functions.c:22:6:set_traffic_leds	16	static
+../Core/Src/traffic_light_functions.c:53:6:reset_traffic_leds	24	static
+../Core/Src/traffic_light_functions.c:78:6:reset_pedestrian_leds	24	static
+../Core/Src/traffic_light_functions.c:101:6:TL1_car_active	8	static
+../Core/Src/traffic_light_functions.c:116:6:TL2_car_active	8	static
+../Core/Src/traffic_light_functions.c:131:6:TL3_car_active	8	static
+../Core/Src/traffic_light_functions.c:146:6:TL4_car_active	8	static
+../Core/Src/traffic_light_functions.c:161:6:PL1_switch_hit	8	static
+../Core/Src/traffic_light_functions.c:176:6:PL2_switch_hit	8	static
+../Core/Src/traffic_light_functions.c:193:6:set_red_traffic_led	24	static
+../Core/Src/traffic_light_functions.c:287:6:set_yellow_traffic_led	24	static
+../Core/Src/traffic_light_functions.c:380:6:set_green_traffic_led	24	static
+../Core/Src/traffic_light_functions.c:475:6:toggle_PL_led	32	static
+../Core/Src/traffic_light_functions.c:544:6:set_red_PL_led	24	static
+../Core/Src/traffic_light_functions.c:597:6:set_green_PL_led	24	static
+../Core/Src/traffic_light_functions.c:652:9:modify_bit	24	static

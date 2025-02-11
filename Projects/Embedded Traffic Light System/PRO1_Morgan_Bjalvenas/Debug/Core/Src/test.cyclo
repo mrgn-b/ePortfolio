@@ -1,0 +1,5 @@
+../Core/Src/test.c:26:6:Test_program	1
+../Core/Src/test.c:38:6:test_sending_SPI_data	1
+../Core/Src/test.c:49:6:test_LEDs	3
+../Core/Src/test.c:79:6:test_switches	1
+../Core/Src/test.c:113:6:test_toggle	3
