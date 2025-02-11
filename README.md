@@ -13,7 +13,7 @@ I'm currently a student studying Information and Communication Technology engine
 **🛠 Tech Stack:** C, STM32CubeIDE, FreeRTOS, SPI, GPIO  
 
 ### 2️⃣ [🗺️ Graph-Based Map Application](https://github.com/yourusername/project-repo)  
-**Description:** This Java-based application allows users to interact with a map by defining locations (nodes) and connections (edges) between them. Users can add, remove, and modify locations and connections, as well as find paths between locations. The application features a graphical user interface (GUI) built with JavaFX, enabling users to visualize the map and perform operations through an intuitive interface. The project is divided into two parts: a graph data structure (ListGraph) to manage the network of locations and connections, and a GUI that handles user interactions and visual representation.
+**Description:** This Java-based application allows users to interact with a map by defining locations (nodes) and connections (edges) between them. Users can add, remove, and modify locations and connections, as well as find paths between locations. The application features a graphical user interface (GUI) built with JavaFX, enabling users to visualize the map and perform operations through an intuitive interface. The project is divided into two parts: a graph data structure (ListGraph) to manage the network of locations and connections, and a GUI that handles user interactions and visual representation.  
 **🛠 Tech Stack:** Java, JavaFX, Graph Theory, File I/O
 
 
