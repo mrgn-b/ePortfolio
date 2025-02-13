@@ -2,7 +2,7 @@
 Hi my name is Morgan Bjälvenäs and welcome to my ePortfolio. Here, you'll find a collection of my projects, showcasing my skills in programming and software development.
 
 ## 🎓 About Me
-I'm currently a student studying Information and Communication Technology engineering at the Royal Institute of Technology in Stockholm. My main programming languages are C and Java which is showcased in the attached projects.
+I'm currently a student studying Information and Communication Technology engineering at the Royal Institute of Technology in Stockholm. My main programming languages are Java and C which is showcased in the attached projects.
 
 **📧 Contact me:** morgan.bjalvenas@gmail.com | [LinkedIn](https://www.linkedin.com/in/morgan-bj%C3%A4lven%C3%A4s-2612a924a/).
 
