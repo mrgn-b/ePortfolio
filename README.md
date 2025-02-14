@@ -15,6 +15,6 @@ I'm currently a student studying Information and Communication Technology engine
 
 ### 2️⃣ [🗺️ Graph-Based Map Application](https://github.com/mrgn-b/ePortfolio/tree/main/Projects/Graph-Based%20Map%20Application/PROG2_Project_JavaFX)  
 **Description:** This Java-based application allows users to interact with a map by defining locations (nodes) and connections (edges) between them. Users can add, remove, and modify locations and connections, as well as find paths between locations. The application features a graphical user interface (GUI) built with JavaFX, enabling users to visualize the map and perform operations through an intuitive interface. The project is divided into two parts: a graph data structure (ListGraph) to manage the network of locations and connections, and a GUI that handles user interactions and visual representation.  
-**🛠 Tech Stack:** Java, JavaFX, Graph Theory, File I/O
+**🛠 Tech Stack:** Java, JavaFX, Graph Theory, File I/O  
 **❗ Prerequisites:** Java 17, JavaFX 20
 
